@@ -1,0 +1,17 @@
+{
+  "name": "git_lab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "mecab-ffi": "git+https://github.com/xissy/node-mecab-ffi.git",
+    "node-summary": "^1.1.0",
+    "request": "^2.78.0"
+  }
+}
