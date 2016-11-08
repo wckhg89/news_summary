@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.14.0",
-    "mecab-ffi": "git+https://github.com/xissy/node-mecab-ffi.git",
+    "mecab-ya": "^0.1.1",
     "node-summary": "^1.1.0",
     "request": "^2.78.0"
   }
