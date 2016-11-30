@@ -15,7 +15,7 @@ module.exports.summarize = function (req, res, next, title, content) {
       var result = {
         summary : summary
       };
-      return res.send(result);
+      return res.json(result);
   });
 };
 
@@ -34,6 +34,6 @@ module.exports.getSortedSetences = function (req, res, next, content) {
         sortedSentences : sortedSentences
       };
 
-      return res.send(result);
+      return res.json(result);
   });
 };
