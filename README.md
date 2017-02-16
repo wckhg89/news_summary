@@ -6,7 +6,7 @@
 
 * download 경로
 
-> [https://bitbucket.org/eunjeon/mecab-ko/downloads](mecab-ko)
+> [https://bitbucket.org/eunjeon/mecab-ko/downloads](mecab-ko)  
   [https://bitbucket.org/eunjeon/mecab-ko-dic/downloads](mecab-ko-dic)
 
 * 현재 프로젝트 경로에서
